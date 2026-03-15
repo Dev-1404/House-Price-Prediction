@@ -61,7 +61,7 @@ This project builds a complete ML pipeline from scratch:
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/house-price-prediction.git
+git clone https://github.com/Dev-1404/House-Price-Prediction.git
 cd house-price-prediction
 ```
 
