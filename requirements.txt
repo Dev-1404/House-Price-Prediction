@@ -1,0 +1,7 @@
+# House Price Prediction — Python Dependencies
+# Install all with: pip install -r requirements.txt
+
+flask==3.1.0          # Web framework for the REST API
+scikit-learn==1.6.1   # ML algorithms, preprocessing, and metrics
+pandas==2.2.3         # Data loading and manipulation
+numpy==2.2.4          # Numerical computations
